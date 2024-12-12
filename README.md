@@ -1,6 +1,6 @@
 This repo contains all the files to support the laser cutter and 3D printer projects for the end-of-year winter giftmaking workshop. We also included some extra files/projects to adapt and personalise.
 
-<img src="./Images/7-1.jpg" width="50%" alt="Image 7-1"> <img src="./Images/large_display_IMG_20191022_221746.webp" width="50%" alt="Large display image from 2019"> <img src="./Images/large_display_PC200281.webp" width="50%" alt="Large display PC image"> <img src="./Images/r7velkz1.jpg" width="50%" alt="Image r7velkz1"> <img src="./Images/Screenshot from 2024-12-11 11-12-55.png" width="50%" alt="Screenshot from 2024-12-11 11:12:55"> <img src="./Images/Screenshot from 2024-12-11 11-14-26.png" width="50%" alt="Screenshot from 2024-12-11 11:14:26"> 
+<img src="./Images/7-1.jpg" width="20%" alt="Image 7-1"> <img src="./Images/large_display_IMG_20191022_221746.webp" width="20%" alt="Large display image from 2019"> <img src="./Images/large_display_PC200281.webp" width="20%" alt="Large display PC image"> <img src="./Images/r7velkz1.jpg" width="20%" alt="Image r7velkz1"> <img src="./Images/Screenshot from 2024-12-11 11-12-55.png" width="20%" alt="Screenshot from 2024-12-11 11:12:55"> <img src="./Images/Screenshot from 2024-12-11 11-14-26.png" width="20%" alt="Screenshot from 2024-12-11 11:14:26"> 
 
 # Laser Cuts
 
